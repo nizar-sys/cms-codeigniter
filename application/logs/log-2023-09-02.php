@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-09-02 00:04:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-02 07:08:42 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2023-09-02 07:36:44 --> 404 Page Not Found: 0811%20754%20856/index
+ERROR - 2023-09-02 08:12:20 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2023-09-02 09:16:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-02 09:16:17 --> 404 Page Not Found: Video/detail
+ERROR - 2023-09-02 09:52:13 --> 404 Page Not Found: Api/index.php
+ERROR - 2023-09-02 10:50:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-02 13:29:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-02 13:29:13 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-09-02 15:39:17 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2023-09-02 15:59:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-02 15:59:39 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2023-09-02 16:28:01 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2023-09-02 16:50:38 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2023-09-02 18:18:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-02 22:08:22 --> 404 Page Not Found: Feed/index
+ERROR - 2023-09-02 22:08:22 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-09-02 22:08:22 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2023-09-02 22:08:22 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2023-09-02 22:08:22 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2023-09-02 22:08:23 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2023-09-02 22:08:23 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2023-09-02 22:08:23 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2023-09-02 22:08:23 --> 404 Page Not Found: 2021/wp_includes
+ERROR - 2023-09-02 22:08:23 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2023-09-02 22:08:23 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2023-09-02 22:08:24 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2023-09-02 22:08:24 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2023-09-02 23:19:02 --> 404 Page Not Found: Stylephp/index

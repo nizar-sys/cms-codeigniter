@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-03-21 04:37:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 04:37:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 06:18:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 08:01:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 08:05:38 --> 404 Page Not Found: Members/board
+ERROR - 2023-03-21 08:05:41 --> 404 Page Not Found: Members/bonus_titik
+ERROR - 2023-03-21 08:18:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 08:18:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 08:18:15 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-03-21 08:18:23 --> 404 Page Not Found: Team_member/0811%20754%20856
+ERROR - 2023-03-21 08:18:24 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-03-21 12:20:59 --> 404 Page Not Found: Wp_admin/install.php
+ERROR - 2023-03-21 12:21:00 --> 404 Page Not Found: Wp/wp_admin
+ERROR - 2023-03-21 12:21:02 --> 404 Page Not Found: New/wp_admin
+ERROR - 2023-03-21 12:21:03 --> 404 Page Not Found: Old/wp_admin
+ERROR - 2023-03-21 12:21:04 --> 404 Page Not Found: Wordpress/wp_admin
+ERROR - 2023-03-21 12:21:05 --> 404 Page Not Found: Test/wp_admin
+ERROR - 2023-03-21 12:21:06 --> 404 Page Not Found: Blog/wp_admin
+ERROR - 2023-03-21 12:21:08 --> 404 Page Not Found: Web/wp_admin
+ERROR - 2023-03-21 12:21:10 --> 404 Page Not Found: Backup/wp_admin
+ERROR - 2023-03-21 12:21:12 --> 404 Page Not Found: Site/wp_admin
+ERROR - 2023-03-21 12:21:14 --> 404 Page Not Found: Oldsite/wp_admin
+ERROR - 2023-03-21 16:20:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 16:20:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 18:15:07 --> 404 Page Not Found: Members/jaringan
+ERROR - 2023-03-21 22:01:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-21 23:08:49 --> 404 Page Not Found: Robotstxt/index

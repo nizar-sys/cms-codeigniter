@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-08-01 02:54:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-01 04:07:14 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2023-08-01 04:28:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-01 04:28:26 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2023-08-01 05:28:52 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2023-08-01 05:32:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-01 10:02:04 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2023-08-01 10:22:51 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2023-08-01 10:38:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-01 11:03:47 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2023-08-01 11:26:46 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2023-08-01 11:38:57 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2023-08-01 11:38:58 --> 404 Page Not Found: Wordpress/wp_login.php
+ERROR - 2023-08-01 11:38:58 --> 404 Page Not Found: Blog/wp_login.php
+ERROR - 2023-08-01 11:38:59 --> 404 Page Not Found: Wp/wp_login.php
+ERROR - 2023-08-01 11:48:00 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2023-08-01 11:48:01 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2023-08-01 12:05:11 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-08-01 12:38:53 --> 404 Page Not Found: Wp_json/index
+ERROR - 2023-08-01 12:38:54 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-08-01 12:38:54 --> 404 Page Not Found: Wp_clearlinephp/index
+ERROR - 2023-08-01 12:38:54 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-08-01 12:38:55 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-08-01 12:38:55 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-08-01 12:38:56 --> 404 Page Not Found: Wp_optionphp/index
+ERROR - 2023-08-01 12:38:56 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-08-01 12:38:57 --> 404 Page Not Found: Wp_content/admin.php
+ERROR - 2023-08-01 12:38:57 --> 404 Page Not Found: Wp_content/themes
+ERROR - 2023-08-01 15:10:56 --> 404 Page Not Found: 0811%20754%20856/index
+ERROR - 2023-08-01 16:41:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-01 20:05:25 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2023-08-01 20:05:25 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2023-08-01 21:34:32 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2023-08-01 22:46:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-01 22:46:39 --> 404 Page Not Found: 0811%20754%20856/index

@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-01-16 01:59:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: News/wp_includes
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: 2018/wp_includes
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: Media/wp_includes
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2024-01-16 02:19:43 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2024-01-16 03:14:56 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-01-16 06:28:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-16 06:35:48 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-01-16 08:11:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-16 08:11:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-16 09:46:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-16 09:46:25 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2024-01-16 11:49:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-16 16:13:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-16 17:24:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-16 19:35:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-16 23:11:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-16 23:15:01 --> 404 Page Not Found: Robotstxt/index

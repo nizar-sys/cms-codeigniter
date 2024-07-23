@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-08-21 00:12:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-21 00:53:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-21 01:22:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-21 01:23:31 --> 404 Page Not Found: Testimoni/index
+ERROR - 2023-08-21 01:43:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-21 01:56:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-21 10:40:00 --> 404 Page Not Found: Administrator/index
+ERROR - 2023-08-21 10:40:26 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2023-08-21 10:40:46 --> 404 Page Not Found: CHANGELOGtxt/index
+ERROR - 2023-08-21 10:41:20 --> 404 Page Not Found: Adminpanel/index
+ERROR - 2023-08-21 10:41:33 --> 404 Page Not Found: Administrator/index
+ERROR - 2023-08-21 10:41:57 --> 404 Page Not Found: admin/Loginphp/index
+ERROR - 2023-08-21 18:49:51 --> 404 Page Not Found: Wp_includes/ID3
+ERROR - 2023-08-21 18:49:53 --> 404 Page Not Found: Feed/index
+ERROR - 2023-08-21 18:49:53 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-08-21 18:49:54 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2023-08-21 18:49:55 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2023-08-21 18:49:55 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2023-08-21 18:49:55 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2023-08-21 18:49:56 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2023-08-21 18:49:56 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2023-08-21 18:49:56 --> 404 Page Not Found: 2021/wp_includes
+ERROR - 2023-08-21 18:49:57 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2023-08-21 18:49:57 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2023-08-21 18:49:57 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2023-08-21 18:49:58 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2023-08-21 21:46:19 --> 404 Page Not Found: Wp_includes/css
+ERROR - 2023-08-21 23:16:16 --> 404 Page Not Found: Robotstxt/index

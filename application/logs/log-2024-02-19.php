@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-02-19 01:06:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 01:39:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 01:55:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 07:11:39 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-02-19 09:12:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 15:11:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 15:11:32 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-02-19 15:18:38 --> 404 Page Not Found: Themes/custom
+ERROR - 2024-02-19 15:18:51 --> 404 Page Not Found: Image/favicon.ico
+ERROR - 2024-02-19 15:18:52 --> 404 Page Not Found: Images/log1.png
+ERROR - 2024-02-19 15:18:53 --> 404 Page Not Found: Details/images
+ERROR - 2024-02-19 15:18:54 --> 404 Page Not Found: Assets/img
+ERROR - 2024-02-19 15:19:01 --> 404 Page Not Found: Txpro/img
+ERROR - 2024-02-19 15:19:02 --> 404 Page Not Found: Assets/fire_admin
+ERROR - 2024-02-19 15:19:13 --> 404 Page Not Found: Images/pc
+ERROR - 2024-02-19 15:19:16 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2024-02-19 15:19:17 --> 404 Page Not Found: Res_content/uploads
+ERROR - 2024-02-19 15:19:41 --> 404 Page Not Found: Static/picture
+ERROR - 2024-02-19 15:19:42 --> 404 Page Not Found: Faviconpng/index
+ERROR - 2024-02-19 15:19:43 --> 404 Page Not Found: Theme/Bob_Theme_Argon
+ERROR - 2024-02-19 15:20:12 --> 404 Page Not Found: Static/image
+ERROR - 2024-02-19 15:20:56 --> 404 Page Not Found: Images/log1.png
+ERROR - 2024-02-19 15:20:58 --> 404 Page Not Found: Details/images
+ERROR - 2024-02-19 15:21:08 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2024-02-19 15:21:32 --> 404 Page Not Found: Statics/abc
+ERROR - 2024-02-19 15:21:33 --> 404 Page Not Found: Images/pc
+ERROR - 2024-02-19 15:21:48 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2024-02-19 15:22:02 --> 404 Page Not Found: Static/picture
+ERROR - 2024-02-19 18:25:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-02-19 23:35:39 --> 404 Page Not Found: Well_known/assetlinks.json

@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-03-07 00:34:25 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-03-07 08:10:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 16:57:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 19:13:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Linksphp/index
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Redirectphp/index
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Bitrix/redirect.php
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Xxxphp/index
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Bitrix/rk.php
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Gbook/go.php
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Wp_content/themes
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Download/index
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Https:/www.w3.org
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Bitrix/click.php
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Outphp/index
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Xxxphp/index
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Gophp/index
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Dailylink/index
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Triggerphp/index
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Go/url=https:
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Bitrix/redirect.php
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Linkphp/index
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Bitrix/redirect.php
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Go/index
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Chuyen_trang_url/https:
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Redirect/index
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Redirect/index
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Signatux/redirect.php
+ERROR - 2024-03-07 21:02:44 --> 404 Page Not Found: Go/index
+ERROR - 2024-03-07 21:02:45 --> 404 Page Not Found: Goto/https:
+ERROR - 2024-03-07 21:02:45 --> 404 Page Not Found: Bitrix/rk.php
+ERROR - 2024-03-07 21:02:45 --> 404 Page Not Found: Bitrix/click.php
+ERROR - 2024-03-07 23:39:39 --> 404 Page Not Found: Well_known/assetlinks.json

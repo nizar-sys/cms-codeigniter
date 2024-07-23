@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-04-14 01:17:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-14 02:55:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-14 02:55:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-14 08:32:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-14 08:43:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-14 10:21:12 --> 404 Page Not Found: Berita/detail
+ERROR - 2023-04-14 10:21:12 --> 404 Page Not Found: Download/index
+ERROR - 2023-04-14 14:23:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-14 14:44:40 --> 404 Page Not Found: Forum/index
+ERROR - 2023-04-14 14:44:40 --> 404 Page Not Found: Forums/index
+ERROR - 2023-04-14 15:45:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-14 15:58:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-14 17:29:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-14 20:52:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-14 20:52:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-14 20:52:28 --> 404 Page Not Found: Asset/admin
+ERROR - 2023-04-14 20:52:28 --> 404 Page Not Found: Asset/admin
+ERROR - 2023-04-14 20:52:28 --> 404 Page Not Found: Asset/admin
+ERROR - 2023-04-14 20:52:28 --> 404 Page Not Found: Asset/css
+ERROR - 2023-04-14 20:52:30 --> 404 Page Not Found: Asset/admin
+ERROR - 2023-04-14 20:52:30 --> 404 Page Not Found: Asset/admin
+ERROR - 2023-04-14 20:52:30 --> 404 Page Not Found: Asset/admin
+ERROR - 2023-04-14 20:52:32 --> 404 Page Not Found: Asset/admin
+ERROR - 2023-04-14 20:52:37 --> 404 Page Not Found: Asset/admin
+ERROR - 2023-04-14 20:52:42 --> 404 Page Not Found: Asset/admin
+ERROR - 2023-04-14 20:52:42 --> 404 Page Not Found: Asset/js
+ERROR - 2023-04-14 20:52:50 --> 404 Page Not Found: Asset/css
+ERROR - 2023-04-14 20:52:50 --> 404 Page Not Found: Asset/js
+ERROR - 2023-04-14 20:52:55 --> 404 Page Not Found: Asset/css
+ERROR - 2023-04-14 20:52:55 --> 404 Page Not Found: Asset/css
+ERROR - 2023-04-14 20:52:55 --> 404 Page Not Found: Asset/js
+ERROR - 2023-04-14 20:52:55 --> 404 Page Not Found: Asset/js
+ERROR - 2023-04-14 21:58:23 --> 404 Page Not Found: Robotstxt/index

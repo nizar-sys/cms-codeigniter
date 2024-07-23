@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-07-05 00:06:52 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2022-07-05 00:11:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-05 00:11:10 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2022-07-05 00:54:19 --> 404 Page Not Found: Sitemapxmlgz/index
+ERROR - 2022-07-05 00:58:06 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2022-07-05 01:01:27 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2022-07-05 01:21:02 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2022-07-05 01:23:01 --> 404 Page Not Found: Sitemapxmlgz/index
+ERROR - 2022-07-05 01:23:43 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2022-07-05 01:27:39 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2022-07-05 01:29:39 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2022-07-05 01:33:18 --> 404 Page Not Found: Atomxml/index
+ERROR - 2022-07-05 01:38:49 --> 404 Page Not Found: Atomxml/index
+ERROR - 2022-07-05 02:43:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-05 02:53:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-05 15:22:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-05 15:22:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-05 20:36:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-05 20:37:08 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2022-07-05 20:41:26 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2022-07-05 21:24:05 --> 404 Page Not Found: Sitemapxmlgz/index
+ERROR - 2022-07-05 21:27:42 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2022-07-05 21:31:07 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2022-07-05 21:50:26 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2022-07-05 21:52:29 --> 404 Page Not Found: Sitemapxmlgz/index
+ERROR - 2022-07-05 21:53:27 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2022-07-05 21:57:09 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2022-07-05 21:59:10 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2022-07-05 22:02:54 --> 404 Page Not Found: Atomxml/index
+ERROR - 2022-07-05 22:08:28 --> 404 Page Not Found: Atomxml/index
+ERROR - 2022-07-05 22:28:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-05 22:35:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-05 22:40:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-05 22:41:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-05 23:53:02 --> 404 Page Not Found: Sitemap_indexxml/index

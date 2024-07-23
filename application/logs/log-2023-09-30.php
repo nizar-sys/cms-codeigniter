@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-09-30 00:12:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-30 04:23:28 --> 404 Page Not Found: Env/index
+ERROR - 2023-09-30 07:28:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-30 08:03:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-30 08:03:35 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-09-30 08:07:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-30 08:12:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-30 10:04:01 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2023-09-30 10:04:01 --> 404 Page Not Found: Env/index
+ERROR - 2023-09-30 10:30:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-30 12:14:02 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2023-09-30 12:14:02 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-09-30 12:14:02 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2023-09-30 12:14:02 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2023-09-30 12:14:02 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2023-09-30 12:14:02 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2023-09-30 12:14:02 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2023-09-30 12:14:02 --> 404 Page Not Found: News/wp_includes
+ERROR - 2023-09-30 12:14:03 --> 404 Page Not Found: 2018/wp_includes
+ERROR - 2023-09-30 12:14:03 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2023-09-30 12:14:03 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2023-09-30 12:14:03 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2023-09-30 12:14:03 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2023-09-30 12:14:03 --> 404 Page Not Found: Media/wp_includes
+ERROR - 2023-09-30 12:14:03 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2023-09-30 12:14:03 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2023-09-30 12:14:03 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2023-09-30 14:38:14 --> 404 Page Not Found: Well_known/assetlinks.json

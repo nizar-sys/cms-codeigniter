@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-02-23 01:16:23 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2023-02-23 01:42:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-02-23 03:53:58 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2023-02-23 03:53:58 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-02-23 03:53:59 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2023-02-23 03:53:59 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2023-02-23 03:53:59 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2023-02-23 03:53:59 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2023-02-23 03:53:59 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2023-02-23 03:54:00 --> 404 Page Not Found: News/wp_includes
+ERROR - 2023-02-23 03:54:00 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2023-02-23 03:54:00 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2023-02-23 03:54:00 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2023-02-23 03:54:00 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2023-02-23 03:54:00 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2023-02-23 03:54:01 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2023-02-23 03:54:01 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2023-02-23 03:54:01 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2023-02-23 07:06:48 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-02-23 07:06:55 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-02-23 12:51:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-02-23 13:52:31 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2023-02-23 13:52:32 --> 404 Page Not Found: Administrator/index.php
+ERROR - 2023-02-23 13:52:32 --> 404 Page Not Found: View_source:/index
+ERROR - 2023-02-23 13:52:33 --> 404 Page Not Found: Misc/ajax.js
+ERROR - 2023-02-23 14:08:47 --> 404 Page Not Found: 0811%20754%20856/index
+ERROR - 2023-02-23 16:16:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-02-23 17:32:49 --> 404 Page Not Found: Robotstxt/index

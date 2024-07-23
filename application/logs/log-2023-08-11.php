@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-08-11 00:25:28 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-08-11 02:25:33 --> 404 Page Not Found: Wp_configgood/index
+ERROR - 2023-08-11 06:19:58 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-08-11 06:19:58 --> 404 Page Not Found: Well_known/apple_app_site_association
+ERROR - 2023-08-11 06:20:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-11 06:20:05 --> 404 Page Not Found: Public/css
+ERROR - 2023-08-11 06:20:06 --> 404 Page Not Found: Well_known/apple_app_site_association
+ERROR - 2023-08-11 06:20:06 --> 404 Page Not Found: Well_known/gpc.json
+ERROR - 2023-08-11 06:20:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-11 06:20:06 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-08-11 06:20:06 --> 404 Page Not Found: Well_known/change_password
+ERROR - 2023-08-11 06:20:06 --> 404 Page Not Found: Well_known/security.txt
+ERROR - 2023-08-11 06:20:06 --> 404 Page Not Found: Well_known/resource_that_should_not_exist_whose_status_code_should_not_be_200
+ERROR - 2023-08-11 06:21:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-11 07:57:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-11 08:29:21 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-08-11 16:22:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-11 16:32:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-11 16:32:52 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2023-08-11 17:34:41 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2023-08-11 18:53:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-11 19:45:05 --> 404 Page Not Found: Well_known/apple_app_site_association
+ERROR - 2023-08-11 19:45:05 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-08-11 19:45:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-11 19:45:30 --> 404 Page Not Found: Public/css
+ERROR - 2023-08-11 19:45:35 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-08-11 19:45:35 --> 404 Page Not Found: Well_known/apple_app_site_association
+ERROR - 2023-08-11 19:45:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-11 19:45:35 --> 404 Page Not Found: Well_known/gpc.json
+ERROR - 2023-08-11 19:45:35 --> 404 Page Not Found: Well_known/change_password
+ERROR - 2023-08-11 19:45:35 --> 404 Page Not Found: Well_known/security.txt
+ERROR - 2023-08-11 19:45:35 --> 404 Page Not Found: Well_known/resource_that_should_not_exist_whose_status_code_should_not_be_200
+ERROR - 2023-08-11 19:47:44 --> 404 Page Not Found: Robotstxt/index

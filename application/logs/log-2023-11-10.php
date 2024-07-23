@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-11-10 01:22:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-10 01:23:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-10 01:38:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-10 03:44:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-10 05:39:16 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-11-10 06:49:23 --> 404 Page Not Found: Wordpress/index
+ERROR - 2023-11-10 06:49:24 --> 404 Page Not Found: Wp/index
+ERROR - 2023-11-10 06:49:24 --> 404 Page Not Found: Wordpress/index
+ERROR - 2023-11-10 06:49:24 --> 404 Page Not Found: Blog/index
+ERROR - 2023-11-10 06:49:24 --> 404 Page Not Found: Wp/index
+ERROR - 2023-11-10 06:49:24 --> 404 Page Not Found: Old/index
+ERROR - 2023-11-10 06:49:25 --> 404 Page Not Found: Blog/index
+ERROR - 2023-11-10 06:49:25 --> 404 Page Not Found: New/index
+ERROR - 2023-11-10 06:49:25 --> 404 Page Not Found: Old/index
+ERROR - 2023-11-10 06:49:25 --> 404 Page Not Found: Test/index
+ERROR - 2023-11-10 06:49:26 --> 404 Page Not Found: Backup/index
+ERROR - 2023-11-10 06:49:26 --> 404 Page Not Found: New/index
+ERROR - 2023-11-10 06:49:26 --> 404 Page Not Found: Temp/index
+ERROR - 2023-11-10 06:49:26 --> 404 Page Not Found: Test/index
+ERROR - 2023-11-10 06:49:27 --> 404 Page Not Found: Backup/index
+ERROR - 2023-11-10 06:49:27 --> 404 Page Not Found: Temp/index
+ERROR - 2023-11-10 14:23:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-10 14:23:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-10 16:17:25 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-11-10 17:05:23 --> 404 Page Not Found: 0811%20754%20856/index
+ERROR - 2023-11-10 17:39:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-10 18:23:53 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-11-10 20:37:55 --> 404 Page Not Found: Simplephp/index
+ERROR - 2023-11-10 20:55:53 --> 404 Page Not Found: Robotstxt/index

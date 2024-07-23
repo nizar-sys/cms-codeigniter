@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-04-08 02:15:13 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2022-04-08 02:15:14 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-04-08 02:15:14 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2022-04-08 02:15:14 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2022-04-08 02:15:14 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2022-04-08 02:15:14 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2022-04-08 02:15:14 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2022-04-08 02:15:14 --> 404 Page Not Found: News/wp_includes
+ERROR - 2022-04-08 02:15:14 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2022-04-08 02:15:14 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2022-04-08 02:15:15 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2022-04-08 02:15:15 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2022-04-08 02:15:15 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2022-04-08 02:15:15 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2022-04-08 02:15:15 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2022-04-08 02:15:15 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2022-04-08 07:25:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-08 11:37:24 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-04-08 11:37:27 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-04-08 11:37:28 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-04-08 11:37:31 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-04-08 11:37:31 --> 404 Page Not Found: App_adstxt/index
+ERROR - 2022-04-08 11:37:31 --> 404 Page Not Found: App_adstxt/index
+ERROR - 2022-04-08 12:55:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-08 14:50:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-08 14:58:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-08 21:24:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-08 21:30:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-08 21:35:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-08 22:07:22 --> 404 Page Not Found: Robotstxt/index

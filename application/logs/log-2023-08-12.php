@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-08-12 00:29:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-12 04:18:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-12 09:20:41 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2023-08-12 09:20:41 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-08-12 09:20:41 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2023-08-12 09:20:41 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2023-08-12 09:20:41 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2023-08-12 09:20:41 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2023-08-12 09:20:41 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2023-08-12 09:20:41 --> 404 Page Not Found: News/wp_includes
+ERROR - 2023-08-12 09:20:41 --> 404 Page Not Found: 2018/wp_includes
+ERROR - 2023-08-12 09:20:41 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2023-08-12 09:20:41 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2023-08-12 09:20:41 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2023-08-12 09:20:42 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2023-08-12 09:20:42 --> 404 Page Not Found: Media/wp_includes
+ERROR - 2023-08-12 09:20:42 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2023-08-12 09:20:42 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2023-08-12 09:20:42 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2023-08-12 12:39:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-12 12:39:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-12 15:45:33 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-08-12 16:26:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-12 16:26:06 --> 404 Page Not Found: Main/index
+ERROR - 2023-08-12 16:45:58 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2023-08-12 20:26:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-12 20:26:28 --> 404 Page Not Found: Video/detail
+ERROR - 2023-08-12 21:10:24 --> 404 Page Not Found: Robotstxt/index

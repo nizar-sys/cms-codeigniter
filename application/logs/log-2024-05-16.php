@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-05-16 01:07:56 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-05-16 01:57:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-16 02:33:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-16 04:22:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-16 05:02:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-16 05:42:49 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-05-16 08:28:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-16 08:28:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-16 09:26:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-16 09:26:13 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-05-16 10:49:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-16 10:49:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-16 12:45:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-16 13:19:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: News/wp_includes
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: 2018/wp_includes
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: Media/wp_includes
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2024-05-16 17:53:50 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2024-05-16 17:53:51 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2024-05-16 21:23:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-16 21:23:16 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-05-16 22:19:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-16 23:09:44 --> 404 Page Not Found: Robotstxt/index

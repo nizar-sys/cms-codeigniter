@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-05-05 00:09:40 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 00:33:40 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 01:16:54 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 03:43:53 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 03:46:36 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 03:55:00 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 03:58:02 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 04:21:59 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 04:34:13 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 04:43:04 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 04:45:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-05 09:45:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-05 11:28:07 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 12:09:40 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 13:29:45 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2024-05-05 13:44:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-05 13:44:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-05-05 14:41:18 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 14:49:42 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 15:35:35 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 15:38:00 --> 404 Page Not Found: Wp_includes/js
+ERROR - 2024-05-05 15:41:57 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2024-05-05 15:41:58 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2024-05-05 20:04:48 --> 404 Page Not Found: Public/uploads
+ERROR - 2024-05-05 20:31:13 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-05-05 20:38:51 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-05-05 22:49:53 --> 404 Page Not Found: Robotstxt/index

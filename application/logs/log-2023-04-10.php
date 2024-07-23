@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-04-10 01:06:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-10 05:10:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-10 05:10:43 --> 404 Page Not Found: 0811%20754%20856/index
+ERROR - 2023-04-10 10:42:09 --> 404 Page Not Found: Testimoni/index
+ERROR - 2023-04-10 11:38:32 --> 404 Page Not Found: Wordpress/index
+ERROR - 2023-04-10 11:38:32 --> 404 Page Not Found: Wp/index
+ERROR - 2023-04-10 11:38:33 --> 404 Page Not Found: Bc/index
+ERROR - 2023-04-10 11:38:33 --> 404 Page Not Found: Bk/index
+ERROR - 2023-04-10 11:38:33 --> 404 Page Not Found: Backup/index
+ERROR - 2023-04-10 11:38:33 --> 404 Page Not Found: Old/index
+ERROR - 2023-04-10 11:38:33 --> 404 Page Not Found: New/index
+ERROR - 2023-04-10 11:38:34 --> 404 Page Not Found: Main/index
+ERROR - 2023-04-10 13:22:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-10 14:23:42 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2023-04-10 14:23:42 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-04-10 14:23:44 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2023-04-10 14:23:44 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2023-04-10 14:23:44 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2023-04-10 14:23:45 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2023-04-10 14:23:45 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2023-04-10 14:23:45 --> 404 Page Not Found: News/wp_includes
+ERROR - 2023-04-10 14:23:45 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2023-04-10 14:23:45 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2023-04-10 14:23:46 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2023-04-10 14:23:46 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2023-04-10 14:23:46 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2023-04-10 14:23:46 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2023-04-10 14:23:47 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2023-04-10 14:23:47 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2023-04-10 17:30:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-10 19:33:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-04-10 21:56:00 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-04-10 23:54:39 --> 404 Page Not Found: Robotstxt/index

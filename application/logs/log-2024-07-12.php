@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-07-12 00:04:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-12 00:20:30 --> 404 Page Not Found: Infophpphp/index
+ERROR - 2024-07-12 00:20:30 --> 404 Page Not Found: Php_infophp/index
+ERROR - 2024-07-12 00:20:31 --> 404 Page Not Found: Testphp/index
+ERROR - 2024-07-12 00:20:31 --> 404 Page Not Found: Iphp/index
+ERROR - 2024-07-12 00:20:32 --> 404 Page Not Found: Asdfphp/index
+ERROR - 2024-07-12 00:20:32 --> 404 Page Not Found: Pinfophp/index
+ERROR - 2024-07-12 00:20:33 --> 404 Page Not Found: Phpversionphp/index
+ERROR - 2024-07-12 00:20:33 --> 404 Page Not Found: Timephp/index
+ERROR - 2024-07-12 00:20:34 --> 404 Page Not Found: Tempphp/index
+ERROR - 2024-07-12 00:20:35 --> 404 Page Not Found: Old_phpinfophp/index
+ERROR - 2024-07-12 00:20:36 --> 404 Page Not Found: Infosphp/index
+ERROR - 2024-07-12 00:20:37 --> 404 Page Not Found: Linusadmin_phpinfophp/index
+ERROR - 2024-07-12 00:20:37 --> 404 Page Not Found: Php_infophp/index
+ERROR - 2024-07-12 00:20:38 --> 404 Page Not Found: Dashboard/phpinfo.php
+ERROR - 2024-07-12 00:20:38 --> 404 Page Not Found: Phpinfophp3/index
+ERROR - 2024-07-12 00:20:39 --> 404 Page Not Found: Phpinfophp4/index
+ERROR - 2024-07-12 00:20:40 --> 404 Page Not Found: Phpinfophp5/index
+ERROR - 2024-07-12 00:20:40 --> 404 Page Not Found: Phpinfosphp/index
+ERROR - 2024-07-12 00:20:41 --> 404 Page Not Found: _profiler/phpinfo.php
+ERROR - 2024-07-12 01:43:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-12 07:29:58 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-07-12 08:29:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-12 14:31:03 --> 404 Page Not Found: Wordpress/index
+ERROR - 2024-07-12 19:49:39 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-07-12 22:35:05 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-07-12 23:05:19 --> 404 Page Not Found: Well_known/assetlinks.json

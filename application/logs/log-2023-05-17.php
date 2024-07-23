@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-17 07:00:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 12:16:54 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2023-05-17 12:16:54 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-05-17 12:16:54 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2023-05-17 12:16:54 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2023-05-17 12:16:54 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2023-05-17 12:16:54 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2023-05-17 12:16:54 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2023-05-17 12:16:54 --> 404 Page Not Found: News/wp_includes
+ERROR - 2023-05-17 12:16:55 --> 404 Page Not Found: 2018/wp_includes
+ERROR - 2023-05-17 12:16:55 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2023-05-17 12:16:55 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2023-05-17 12:16:55 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2023-05-17 12:16:55 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2023-05-17 12:16:55 --> 404 Page Not Found: Media/wp_includes
+ERROR - 2023-05-17 12:16:55 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2023-05-17 12:16:55 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2023-05-17 12:16:55 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2023-05-17 14:31:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 14:31:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 15:54:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 16:40:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 16:40:50 --> 404 Page Not Found: Download/index
+ERROR - 2023-05-17 17:48:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 18:06:43 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2023-05-17 18:06:43 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2023-05-17 20:36:35 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2023-05-17 21:15:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 21:15:26 --> 404 Page Not Found: Asset/images
+ERROR - 2023-05-17 22:41:59 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2023-05-17 23:22:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-05-17 23:25:42 --> 404 Page Not Found: Robotstxt/index

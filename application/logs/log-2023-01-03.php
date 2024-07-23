@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-01-03 04:30:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-03 04:31:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-03 10:57:01 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 11:58:24 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 11:58:24 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 11:58:25 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 11:58:26 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 11:58:26 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 11:58:54 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 11:58:55 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 11:58:55 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 11:58:56 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 11:58:57 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 12:38:20 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 12:38:21 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 12:38:21 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 12:38:22 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 12:38:23 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-01-03 18:22:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-03 19:34:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-03 19:34:09 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2023-01-03 19:34:10 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-01-03 20:33:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-03 23:21:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-03 23:25:42 --> 404 Page Not Found: Wp_admin/style.php
+ERROR - 2023-01-03 23:25:42 --> 404 Page Not Found: Stylephp/index
+ERROR - 2023-01-03 23:40:37 --> 404 Page Not Found: Stylephp/index
+ERROR - 2023-01-03 23:40:37 --> 404 Page Not Found: Wp_admin/style.php

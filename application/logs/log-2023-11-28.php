@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-11-28 00:24:35 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-11-28 01:24:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-28 02:03:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-28 06:04:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-28 06:04:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-28 06:18:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-28 07:57:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-28 08:24:37 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-11-28 09:00:45 --> 404 Page Not Found: Sellerphp/index
+ERROR - 2023-11-28 09:00:45 --> 404 Page Not Found: Action/xmlrpc
+ERROR - 2023-11-28 09:00:56 --> 404 Page Not Found: Action/xmlrpc
+ERROR - 2023-11-28 09:00:56 --> 404 Page Not Found: Action/xmlrpc
+ERROR - 2023-11-28 09:00:56 --> 404 Page Not Found: Action/xmlrpc
+ERROR - 2023-11-28 09:50:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-28 09:50:48 --> 404 Page Not Found: Category/0811%20754%20856
+ERROR - 2023-11-28 09:50:49 --> 404 Page Not Found: 0811%20754%20856/index
+ERROR - 2023-11-28 10:35:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-28 11:20:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-28 13:28:09 --> 404 Page Not Found: Wordpress/index
+ERROR - 2023-11-28 13:28:09 --> 404 Page Not Found: Wp/index
+ERROR - 2023-11-28 13:28:10 --> 404 Page Not Found: Wp_admin/setup_config.php
+ERROR - 2023-11-28 13:28:10 --> 404 Page Not Found: Wp_admin/install.php
+ERROR - 2023-11-28 13:28:10 --> 404 Page Not Found: Blog/index
+ERROR - 2023-11-28 13:28:11 --> 404 Page Not Found: New/index
+ERROR - 2023-11-28 13:28:11 --> 404 Page Not Found: Old/index
+ERROR - 2023-11-28 13:28:11 --> 404 Page Not Found: Newsite/index
+ERROR - 2023-11-28 13:28:11 --> 404 Page Not Found: Test/index
+ERROR - 2023-11-28 13:28:11 --> 404 Page Not Found: Core/index
+ERROR - 2023-11-28 13:28:12 --> 404 Page Not Found: Testing/index
+ERROR - 2023-11-28 14:51:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-28 16:24:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-28 19:16:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-28 19:16:40 --> 404 Page Not Found: Video/index
+ERROR - 2023-11-28 22:55:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-11-28 23:24:31 --> 404 Page Not Found: Asset/foto_slide

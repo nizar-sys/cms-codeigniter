@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-01-13 01:21:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-13 01:54:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-13 01:54:56 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-01-13 02:15:17 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2024-01-13 02:15:17 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2024-01-13 02:15:18 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2024-01-13 02:15:18 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2024-01-13 02:15:18 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2024-01-13 02:15:18 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2024-01-13 02:15:18 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2024-01-13 02:15:18 --> 404 Page Not Found: News/wp_includes
+ERROR - 2024-01-13 02:15:18 --> 404 Page Not Found: 2018/wp_includes
+ERROR - 2024-01-13 02:15:19 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2024-01-13 02:15:19 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2024-01-13 02:15:19 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2024-01-13 02:15:19 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2024-01-13 02:15:19 --> 404 Page Not Found: Media/wp_includes
+ERROR - 2024-01-13 02:15:19 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2024-01-13 02:15:19 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2024-01-13 02:15:20 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2024-01-13 03:32:02 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-01-13 13:57:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-13 15:48:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-13 16:42:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-13 16:42:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-13 18:27:42 --> 404 Page Not Found: Category/0811%20754%20856
+ERROR - 2024-01-13 18:41:45 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-10-11 00:08:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 01:54:05 --> 404 Page Not Found: Env/index
+ERROR - 2023-10-11 02:21:59 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-10-11 03:19:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 04:24:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 05:42:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 06:42:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 06:42:04 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-10-11 10:03:14 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2023-10-11 10:03:14 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-10-11 10:03:14 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2023-10-11 10:03:14 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2023-10-11 10:03:14 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2023-10-11 10:03:14 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2023-10-11 10:03:14 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2023-10-11 10:03:14 --> 404 Page Not Found: News/wp_includes
+ERROR - 2023-10-11 10:03:14 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2023-10-11 10:03:14 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2023-10-11 10:03:14 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2023-10-11 10:03:14 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2023-10-11 10:03:15 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2023-10-11 10:03:15 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2023-10-11 10:03:15 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2023-10-11 10:03:15 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2023-10-11 11:51:25 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-10-11 14:56:42 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-10-11 14:56:43 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-10-11 20:49:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-11 20:49:49 --> 404 Page Not Found: Page/detail
+ERROR - 2023-10-11 22:56:59 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2023-10-11 23:45:36 --> 404 Page Not Found: Apiphp/index

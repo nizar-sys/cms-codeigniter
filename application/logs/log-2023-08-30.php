@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-08-30 00:26:36 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-08-30 00:26:37 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-08-30 00:26:37 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-08-30 02:47:25 --> 404 Page Not Found: Wp_includes/ID3
+ERROR - 2023-08-30 02:47:26 --> 404 Page Not Found: Feed/index
+ERROR - 2023-08-30 02:47:26 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-08-30 02:47:26 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2023-08-30 02:47:26 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2023-08-30 02:47:27 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2023-08-30 02:47:27 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2023-08-30 02:47:27 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2023-08-30 02:47:27 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2023-08-30 02:47:27 --> 404 Page Not Found: 2021/wp_includes
+ERROR - 2023-08-30 02:47:28 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2023-08-30 02:47:28 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2023-08-30 02:47:28 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2023-08-30 02:47:28 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2023-08-30 06:34:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-30 06:34:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-30 15:06:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-30 15:06:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-30 16:23:18 --> 404 Page Not Found: Wp_includes/css
+ERROR - 2023-08-30 19:04:22 --> 404 Page Not Found: Wp_touchjs/index
+ERROR - 2023-08-30 19:48:26 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-08-30 19:50:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-08-30 19:50:19 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2023-08-30 19:50:19 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-08-30 19:56:16 --> 404 Page Not Found: Asset/foto_slide
+ERROR - 2023-08-30 20:16:05 --> 404 Page Not Found: Asset/foto_slide

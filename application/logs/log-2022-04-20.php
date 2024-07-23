@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-04-20 00:22:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-20 01:51:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-20 01:51:22 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2022-04-20 01:51:22 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-04-20 01:52:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-20 01:52:05 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2022-04-20 01:52:07 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-04-20 08:18:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-20 08:19:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-20 19:23:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-20 20:23:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-20 21:12:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-20 21:38:35 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2022-04-20 21:38:35 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-04-20 21:38:36 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2022-04-20 21:38:36 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2022-04-20 21:38:36 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2022-04-20 21:38:36 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2022-04-20 21:38:36 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2022-04-20 21:38:36 --> 404 Page Not Found: News/wp_includes
+ERROR - 2022-04-20 21:38:37 --> 404 Page Not Found: 2018/wp_includes
+ERROR - 2022-04-20 21:38:37 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2022-04-20 21:38:37 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2022-04-20 21:38:37 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2022-04-20 21:38:37 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2022-04-20 21:38:37 --> 404 Page Not Found: Media/wp_includes
+ERROR - 2022-04-20 21:38:37 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2022-04-20 21:38:37 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2022-04-20 21:38:38 --> 404 Page Not Found: Sito/wp_includes

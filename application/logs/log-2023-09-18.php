@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-09-18 00:04:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-18 10:01:40 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-09-18 10:19:45 --> 404 Page Not Found: Stylephp/index
+ERROR - 2023-09-18 12:22:12 --> 404 Page Not Found: Wp_content/style_css.php
+ERROR - 2023-09-18 12:22:39 --> 404 Page Not Found: 1php/index
+ERROR - 2023-09-18 12:23:11 --> 404 Page Not Found: Simplephp/index
+ERROR - 2023-09-18 13:01:22 --> 404 Page Not Found: Apple_touch_icon_precomposedpng/index
+ERROR - 2023-09-18 13:01:22 --> 404 Page Not Found: Apple_touch_iconpng/index
+ERROR - 2023-09-18 13:03:57 --> 404 Page Not Found: Apple_touch_icon_120x120_precomposedpng/index
+ERROR - 2023-09-18 13:03:59 --> 404 Page Not Found: Apple_touch_icon_120x120png/index
+ERROR - 2023-09-18 13:03:59 --> 404 Page Not Found: Apple_touch_icon_precomposedpng/index
+ERROR - 2023-09-18 13:04:00 --> 404 Page Not Found: Apple_touch_iconpng/index
+ERROR - 2023-09-18 14:41:21 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2023-09-18 14:41:21 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-09-18 14:41:21 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2023-09-18 14:41:22 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2023-09-18 14:41:22 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2023-09-18 14:41:22 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2023-09-18 14:41:23 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2023-09-18 14:41:23 --> 404 Page Not Found: News/wp_includes
+ERROR - 2023-09-18 14:41:23 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2023-09-18 14:41:23 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2023-09-18 14:41:24 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2023-09-18 14:41:24 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2023-09-18 14:41:24 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2023-09-18 14:41:24 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2023-09-18 14:41:25 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2023-09-18 14:41:25 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2023-09-18 15:30:29 --> 404 Page Not Found: 0811%20754%20856/index
+ERROR - 2023-09-18 15:46:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-18 18:21:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-18 22:55:03 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-10-04 00:50:22 --> 404 Page Not Found: Wp_includes/ID3
+ERROR - 2023-10-04 00:50:22 --> 404 Page Not Found: Feed/index
+ERROR - 2023-10-04 00:50:22 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-10-04 00:50:22 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2023-10-04 00:50:22 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2023-10-04 00:50:22 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2023-10-04 00:50:22 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2023-10-04 00:50:22 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2023-10-04 00:50:22 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2023-10-04 00:50:22 --> 404 Page Not Found: 2021/wp_includes
+ERROR - 2023-10-04 00:50:22 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2023-10-04 00:50:22 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2023-10-04 00:50:22 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2023-10-04 00:50:22 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2023-10-04 02:39:06 --> 404 Page Not Found: Wp_includes/widgets
+ERROR - 2023-10-04 05:56:09 --> 404 Page Not Found: Contactphp/index
+ERROR - 2023-10-04 06:10:26 --> 404 Page Not Found: Contactphp/index
+ERROR - 2023-10-04 06:26:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-04 06:47:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-04 06:48:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-04 07:09:55 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-10-04 07:23:06 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-10-04 08:37:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-04 11:57:17 --> 404 Page Not Found: Stylephp/index
+ERROR - 2023-10-04 14:48:02 --> 404 Page Not Found: Contactphp/index
+ERROR - 2023-10-04 18:16:45 --> 404 Page Not Found: Wp_content/themes
+ERROR - 2023-10-04 18:16:56 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-10-04 18:57:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-04 19:17:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-04 19:17:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-04 20:46:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-04 22:22:37 --> 404 Page Not Found: Members/board
+ERROR - 2023-10-04 22:22:41 --> 404 Page Not Found: Members/board
+ERROR - 2023-10-04 23:25:16 --> 404 Page Not Found: Aws/credentials

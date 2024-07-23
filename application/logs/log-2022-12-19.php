@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-12-19 00:09:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-19 00:10:10 --> 404 Page Not Found: Main/index
+ERROR - 2022-12-19 00:36:52 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2022-12-19 00:44:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-19 02:54:16 --> 404 Page Not Found: Main/index
+ERROR - 2022-12-19 02:55:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-19 03:17:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-19 05:19:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-19 05:54:49 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 06:45:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-19 07:05:22 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 07:23:29 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 07:51:33 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 09:19:56 --> 404 Page Not Found: Asset/images
+ERROR - 2022-12-19 09:28:42 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 10:01:56 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 14:38:51 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 14:52:27 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 15:25:48 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 15:54:29 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 20:07:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-19 20:07:59 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 20:30:25 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 20:53:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-12-19 21:01:06 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 21:38:22 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 21:51:23 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 22:28:15 --> 404 Page Not Found: Testimoni/index
+ERROR - 2022-12-19 22:29:54 --> 404 Page Not Found: Robotstxt/index

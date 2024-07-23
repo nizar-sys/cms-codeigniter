@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-08-06 06:10:25 --> 404 Page Not Found: Old_indexphp/index
+ERROR - 2022-08-06 06:11:03 --> 404 Page Not Found: Wp_loadphp/index
+ERROR - 2022-08-06 08:10:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-06 14:34:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-06 14:40:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-06 16:49:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-06 18:02:50 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2022-08-06 18:02:50 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-08-06 18:02:50 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2022-08-06 18:02:50 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2022-08-06 18:02:50 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2022-08-06 18:02:50 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2022-08-06 18:02:51 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2022-08-06 18:02:51 --> 404 Page Not Found: News/wp_includes
+ERROR - 2022-08-06 18:02:51 --> 404 Page Not Found: 2018/wp_includes
+ERROR - 2022-08-06 18:02:51 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2022-08-06 18:02:51 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2022-08-06 18:02:51 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2022-08-06 18:02:51 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2022-08-06 18:02:51 --> 404 Page Not Found: Media/wp_includes
+ERROR - 2022-08-06 18:02:51 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2022-08-06 18:02:51 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2022-08-06 18:02:52 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2022-08-06 23:20:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-06 23:28:12 --> 404 Page Not Found: App_adstxt/index
+ERROR - 2022-08-06 23:28:12 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-08-06 23:28:13 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-08-06 23:28:13 --> 404 Page Not Found: App_adstxt/index
+ERROR - 2022-08-06 23:28:14 --> 404 Page Not Found: App_adstxt/index
+ERROR - 2022-08-06 23:28:14 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-08-06 23:28:14 --> 404 Page Not Found: App_adstxt/index
+ERROR - 2022-08-06 23:28:14 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-08-06 23:33:06 --> 404 Page Not Found: Robotstxt/index

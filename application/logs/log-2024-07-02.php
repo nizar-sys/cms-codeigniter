@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-07-02 00:23:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 01:06:02 --> 404 Page Not Found: Wordpress/index
+ERROR - 2024-07-02 01:06:02 --> 404 Page Not Found: Wp/index
+ERROR - 2024-07-02 01:06:02 --> 404 Page Not Found: Bc/index
+ERROR - 2024-07-02 01:06:02 --> 404 Page Not Found: Bk/index
+ERROR - 2024-07-02 01:06:02 --> 404 Page Not Found: Backup/index
+ERROR - 2024-07-02 01:06:02 --> 404 Page Not Found: Old/index
+ERROR - 2024-07-02 01:06:02 --> 404 Page Not Found: New/index
+ERROR - 2024-07-02 01:06:02 --> 404 Page Not Found: Main/index
+ERROR - 2024-07-02 01:08:54 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-07-02 01:57:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 06:07:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 08:07:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 09:50:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 13:38:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 15:32:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 15:32:23 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2024-07-02 16:27:38 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2024-07-02 19:05:37 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-07-02 19:54:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-02 20:49:17 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-07-02 21:52:31 --> 404 Page Not Found: Wordpress/index
+ERROR - 2024-07-02 21:52:32 --> 404 Page Not Found: Wp/index
+ERROR - 2024-07-02 21:52:32 --> 404 Page Not Found: Bc/index
+ERROR - 2024-07-02 21:52:32 --> 404 Page Not Found: Bk/index
+ERROR - 2024-07-02 21:52:32 --> 404 Page Not Found: Backup/index
+ERROR - 2024-07-02 21:52:32 --> 404 Page Not Found: Old/index
+ERROR - 2024-07-02 21:52:32 --> 404 Page Not Found: New/index
+ERROR - 2024-07-02 21:52:32 --> 404 Page Not Found: Main/index

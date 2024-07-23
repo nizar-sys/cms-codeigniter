@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-10-20 07:43:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 07:43:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 07:43:47 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-10-20 07:43:49 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-10-20 07:43:50 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-10-20 07:43:51 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-10-20 07:43:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 07:43:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 07:43:59 --> 404 Page Not Found: App_adstxt/index
+ERROR - 2022-10-20 07:44:00 --> 404 Page Not Found: App_adstxt/index
+ERROR - 2022-10-20 07:44:01 --> 404 Page Not Found: App_adstxt/index
+ERROR - 2022-10-20 07:44:02 --> 404 Page Not Found: App_adstxt/index
+ERROR - 2022-10-20 10:07:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 11:19:16 --> 404 Page Not Found: Well_known/hostinger_challenge
+ERROR - 2022-10-20 11:19:16 --> 404 Page Not Found: Well_known/hostinger_challenge
+ERROR - 2022-10-20 11:19:19 --> 404 Page Not Found: Well_known/hostinger_challenge
+ERROR - 2022-10-20 11:19:19 --> 404 Page Not Found: Well_known/hostinger_challenge
+ERROR - 2022-10-20 11:34:04 --> 404 Page Not Found: Well_known/hostinger_challenge
+ERROR - 2022-10-20 11:34:05 --> 404 Page Not Found: Well_known/hostinger_challenge
+ERROR - 2022-10-20 11:34:08 --> 404 Page Not Found: Well_known/hostinger_challenge
+ERROR - 2022-10-20 11:34:08 --> 404 Page Not Found: Well_known/hostinger_challenge
+ERROR - 2022-10-20 15:11:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 15:21:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-10-20 15:23:52 --> 404 Page Not Found: Well_known/hostinger_challenge
+ERROR - 2022-10-20 15:23:52 --> 404 Page Not Found: Well_known/hostinger_challenge
+ERROR - 2022-10-20 15:23:55 --> 404 Page Not Found: Well_known/hostinger_challenge
+ERROR - 2022-10-20 15:23:55 --> 404 Page Not Found: Well_known/hostinger_challenge
+ERROR - 2022-10-20 20:36:34 --> 404 Page Not Found: Team_member/pt_bos.riau

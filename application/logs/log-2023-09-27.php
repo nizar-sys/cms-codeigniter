@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-09-27 04:04:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-27 04:04:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-27 08:17:12 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2023-09-27 08:51:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-27 08:56:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-27 09:19:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-27 09:19:16 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-09-27 10:26:36 --> 404 Page Not Found: Wordpress/index
+ERROR - 2023-09-27 10:26:36 --> 404 Page Not Found: Wp_admin/setup_config.php
+ERROR - 2023-09-27 10:26:36 --> 404 Page Not Found: Wp_admin/install.php
+ERROR - 2023-09-27 10:26:36 --> 404 Page Not Found: Wp/index
+ERROR - 2023-09-27 10:26:36 --> 404 Page Not Found: Blog/index
+ERROR - 2023-09-27 10:26:37 --> 404 Page Not Found: New/index
+ERROR - 2023-09-27 10:26:37 --> 404 Page Not Found: Old/index
+ERROR - 2023-09-27 10:26:37 --> 404 Page Not Found: Newsite/index
+ERROR - 2023-09-27 10:26:37 --> 404 Page Not Found: Test/index
+ERROR - 2023-09-27 10:26:37 --> 404 Page Not Found: Main/index
+ERROR - 2023-09-27 10:26:37 --> 404 Page Not Found: Testing/index
+ERROR - 2023-09-27 10:26:37 --> 404 Page Not Found: Site/index
+ERROR - 2023-09-27 10:26:37 --> 404 Page Not Found: Backup/index
+ERROR - 2023-09-27 10:26:37 --> 404 Page Not Found: Demo/index
+ERROR - 2023-09-27 10:26:38 --> 404 Page Not Found: Tmp/index
+ERROR - 2023-09-27 10:26:38 --> 404 Page Not Found: Dev/index
+ERROR - 2023-09-27 10:26:38 --> 404 Page Not Found: Portal/index
+ERROR - 2023-09-27 10:26:38 --> 404 Page Not Found: Web/index
+ERROR - 2023-09-27 11:24:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-09-27 19:29:14 --> 404 Page Not Found: Robotstxt/index

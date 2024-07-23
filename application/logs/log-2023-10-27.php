@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-10-27 01:01:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 01:01:35 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2023-10-27 01:01:35 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-10-27 01:08:03 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-10-27 01:11:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 01:11:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 02:10:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 03:30:22 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2023-10-27 10:16:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 10:57:49 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2023-10-27 10:59:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 11:46:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 12:05:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 15:32:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 16:29:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-10-27 18:53:36 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2023-10-27 18:53:37 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-10-27 18:53:37 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2023-10-27 18:53:37 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2023-10-27 18:53:37 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2023-10-27 18:53:37 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2023-10-27 18:53:38 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2023-10-27 18:53:38 --> 404 Page Not Found: News/wp_includes
+ERROR - 2023-10-27 18:53:38 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2023-10-27 18:53:38 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2023-10-27 18:53:38 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2023-10-27 18:53:38 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2023-10-27 18:53:39 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2023-10-27 18:53:39 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2023-10-27 18:53:39 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2023-10-27 18:53:39 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2023-10-27 19:07:31 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2023-10-27 22:24:49 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2023-10-27 23:14:47 --> 404 Page Not Found: Well_known/assetlinks.json
