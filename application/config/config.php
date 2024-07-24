@@ -24,7 +24,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 date_default_timezone_set('Asia/Jakarta');
-$config['base_url'] = 'https://abcsukses.com';
+$config['base_url'] = 'http://cms-ci.test';
+// $config['base_url'] = 'https://abcsukses.com';
 
 /*
 |--------------------------------------------------------------------------

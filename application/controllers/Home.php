@@ -37,9 +37,13 @@ class Home extends CI_Controller {
 
 		$data['portfolio_footer'] = $this->Model_portfolio->get_portfolio_data();
 
-		$this->load->view('view_header',$data);
-		$this->load->view('view_home',$data);
-		$this->load->view('view_footer',$data);
+		// $this->load->view('view_header',$data);
+		// $this->load->view('view_home',$data);
+		// $this->load->view('view_footer',$data);
+
+		$this->load->view('new/header',$data);
+		$this->load->view('new/home',$data);
+		$this->load->view('new/footer',$data);
 	}
 
 	public function send_email() {
