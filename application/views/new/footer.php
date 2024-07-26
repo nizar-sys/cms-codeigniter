@@ -1,12 +1,18 @@
-<section id="call-to-action" class="call-to-action section" style="background-image: url(<?php echo base_url(); ?>public/uploads/<?php echo $setting['cta_background']; ?>)">
+<section id="call-to-action"
+    class="call-to-action section <?php if (!$setting['cta_background']) { ?> light-background <?php } ?>" <?php if ($setting['cta_background']) { ?>
+        style="background-image: url(<?php echo base_url(); ?>public/uploads/<?php echo $setting['cta_background']; ?> )"
+    <?php } ?>>
     <div class="content">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-10">
-                    <h3 class="text-white"><?php echo $setting['cta_text']; ?></h3>
+                    <h3 <?php if ($setting['cta_background']) { ?> class="text-white" <?php } ?>>
+                        <?php echo $setting['cta_text']; ?>
+                    </h3>
                 </div>
                 <div class="col-lg-2">
-                    <a href="<?php echo base_url(); ?>" class="btn btn-secondary px-4 text-white"><?php echo $setting['cta_button_text']; ?></a>
+                    <a href="<?php echo base_url(); ?>"
+                        class="btn btn-secondary px-4 text-white"><?php echo $setting['cta_button_text']; ?></a>
                 </div>
             </div>
         </div>
@@ -28,7 +34,9 @@
                     </a>
                     <div class="footer-contact pt-3">
                         <p><?php echo nl2br($setting['footer_address']); ?></p>
-                        <p class="mt-3"><strong>Phone:</strong> <span><?php echo nl2br($setting['footer_phone']); ?></span></p>
+                        <p class="mt-3"><strong>Phone:</strong>
+                            <span><?php echo nl2br($setting['footer_phone']); ?></span>
+                        </p>
                         <p><strong>Email:</strong> <span><?php echo nl2br($setting['footer_email']); ?></span></p>
                     </div>
                 </div>
@@ -48,9 +56,11 @@
                             ?>
                             <?php echo form_open(base_url() . 'newsletter/send', array('class' => '')); ?>
                             <div class="input-group">
-                                <input type="email" class="form-control" placeholder="<?php echo EMAIL_ADDRESS; ?>" name="email_subscribe" required>
+                                <input type="email" class="form-control" placeholder="<?php echo EMAIL_ADDRESS; ?>"
+                                    name="email_subscribe" required>
                                 <span class="input-group-btn">
-                                    <button class="btn btn-dark" type="submit" name="form_subscribe"><i class="fa fa-location-arrow"></i></button>
+                                    <button class="btn btn-dark" type="submit" name="form_subscribe"><i
+                                            class="fa fa-location-arrow"></i></button>
                                 </span>
                             </div>
                             <?php echo form_close(); ?>
@@ -68,9 +78,11 @@
                             if ($i > $setting['footer_recent_news_item']) {
                                 break;
                             }
-                        ?>
-                            <li><a href="<?php echo base_url(); ?>news/view/<?php echo $news['news_id']; ?>"><?php echo $news['news_title']; ?></a></li>
-                        <?php
+                            ?>
+                            <li><a
+                                    href="<?php echo base_url(); ?>news/view/<?php echo $news['news_id']; ?>"><?php echo $news['news_title']; ?></a>
+                            </li>
+                            <?php
                         }
                         ?>
                     </ul>
@@ -81,7 +93,8 @@
     </div>
 
     <div class="copyright text-center">
-        <div class="container d-flex flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center">
+        <div
+            class="container d-flex flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center">
 
             <div class="d-flex flex-column align-items-center align-items-lg-start">
                 <div>
@@ -105,7 +118,8 @@
 </footer>
 
 <!-- Scroll Top -->
-<a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+<a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
+        class="bi bi-arrow-up-short"></i></a>
 
 <!-- Preloader -->
 <div id="preloader"></div>
