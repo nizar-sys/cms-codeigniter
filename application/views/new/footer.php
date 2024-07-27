@@ -134,6 +134,29 @@
 <!-- Main JS File -->
 <script src="<?php echo base_url(); ?>public/ac/assets/js/main.js"></script>
 
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Magnific Popup JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        // Initialize Magnific Popup for a gallery
+        $('.gallery').magnificPopup({
+            delegate: 'a', // child items selector, by clicking on it popup will open
+            type: 'image',
+            gallery: {
+                enabled: true // set to true to enable gallery mode
+            }
+        });
+
+        // Initialize Magnific Popup for a single image
+        $('.popup-link').magnificPopup({
+            type: 'image'
+        });
+    });
+</script>
+
 </body>
 
 </html>
