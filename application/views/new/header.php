@@ -306,9 +306,8 @@ $success_message = '';
                 <ul class="nav">
                     <li class="nav-item"><a href="<?php echo base_url(); ?>"
                             class="nav-link active"><?php echo HOME; ?></a></li>
-                    <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
+                    <li class="dropdown">
+                        <a href="#">
                             <?php echo PAGE; ?> <i class="bi bi-chevron-down toggle-dropdown"></i>
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
