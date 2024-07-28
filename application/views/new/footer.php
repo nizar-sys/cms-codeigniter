@@ -146,15 +146,47 @@
             delegate: 'a', // child items selector, by clicking on it popup will open
             type: 'image',
             gallery: {
-                enabled: true // set to true to enable gallery mode
+                enabled: true, // set to true to enable gallery mode
+                navigateByImgClick: true,
+                arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"></button>', // markup of an arrow button
+                tPrev: 'Previous (Left arrow key)', // title for left button
+                tNext: 'Next (Right arrow key)', // title for right button
+                tCounter: '<span class="mfp-counter">%curr% of %total%</span>' // markup of counter
+            },
+            image: {
+                titleSrc: function (item) {
+                    return item.el.attr('alt');
+                }
             }
         });
-
-        // Initialize Magnific Popup for a single image
-        $('.popup-link').magnificPopup({
-            type: 'image'
-        });
     });
+</script>
+
+<!-- GetButton.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            //   facebook: "#", // Facebook page ID
+            whatsapp: " 6281362116978&text=Hallo abcsukses", // WhatsApp number
+            text: "abcsukses.com",
+            call_to_action: "Hubungi Kami", // Call to action
+            button_color: "#FF6550", // Color of button
+            position: "left", // Position may be 'right' or 'left'
+            //    order: "facebook,whatsapp", // Order of buttons
+        };
+        var proto = document.location.protocol,
+            host = "getbutton.io",
+            url = proto + "//static." + host;
+        var s = document.createElement("script");
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = url + "/widget-send-button/js/init.js";
+        s.onload = function () {
+            WhWidgetSendButton.init(host, proto, options);
+        };
+        var x = document.getElementsByTagName("script")[0];
+        x.parentNode.insertBefore(s, x);
+    })();
 </script>
 
 </body>

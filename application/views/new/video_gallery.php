@@ -56,9 +56,11 @@
         box-shadow: none;
     }
 
-    #content {
+    #about-3 {
         position: relative;
         background-color: #f9f9f9;
+        padding-left: 30px;
+        padding-right: 30px;
     }
 
     .content-wrap {
@@ -123,19 +125,6 @@
         height: auto;
         border-radius: 0;
     }
-
-    .mfp-counter {
-        color: #fff;
-        font-size: 14px;
-        position: absolute;
-        top: 10px;
-        right: 10px;
-    }
-
-    .mfp-arrow {
-        color: #fff;
-        font-size: 18px;
-    }
 </style>
 
 <section>
@@ -143,24 +132,26 @@
         <!-- Page Title Section -->
         <section class="page-title">
             <div class="content-wrap">
-                <h2>Merayakan Keunggulan dan Prestasi</h2>
-                <p>Temukan penghargaan bergengsi yang diperoleh anggota kami, yang menunjukkan dedikasi dan keberhasilan
-                    mereka.</p>
+                <h2>Menampilkan Perjalanan dan Prestasi Kami</h2>
+                <p>Jelajahi galeri video kami untuk menonton profil mendalam perusahaan kami, visi pendiri kami, dan
+                    prestasi luar biasa para anggota kami.</p>
             </div>
         </section><!-- .page-title end -->
         <!-- Content
         ============================================= -->
-        <section id="content">
+        <section id="about-3" class="about-3 section">
             <div class="content-wrap p-0">
-                <div class="masonry-thumbs grid-container row row-cols-4 gallery m-2">
+                <div class="row gy-4 justify-content-between align-items-center">
                     <?php
-                    foreach ($photo_gallery as $row) {
+                    foreach ($video_gallery as $row) {
                         ?>
-                        <a class="grid-item popup-link"
-                            href="<?php echo base_url(); ?>public/uploads/<?php echo $row['photo_name']; ?>">
-                            <img class="op-ts h-op-09"
-                                src="<?php echo base_url(); ?>public/uploads/<?php echo $row['photo_name']; ?>"
-                                alt="Gallery Thumb"></a>
+                        <div class="col-lg-4 order-lg-2 position-relative" data-aos="zoom-out">
+                            <img src="<?php echo base_url(); ?>public/uploads/<?php echo $row['video_thumb']; ?>"
+                                alt="Image" class="img-fluid">
+                            <a href="<?php echo $row['url']; ?>" class="glightbox pulsating-play-btn">
+                                <span class="play"><i class="bi bi-play-fill"></i></span>
+                            </a>
+                        </div>
                         <?php
                     }
                     ?>
