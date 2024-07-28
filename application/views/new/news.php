@@ -96,7 +96,7 @@
                                 </div>
 
                                 <div class="meta d-flex align-items-end">
-                                    <span class="post-date"><?php
+                                    <span class="post-date"><span><?php
                                     $dt = explode('-', $row->news_date);
                                     if ($dt[1] == '01') {
                                         $month = 'January';
@@ -134,7 +134,46 @@
                                     if ($dt[1] == '12') {
                                         $month = 'December';
                                     }
-                                    echo $month . ' ' . $dt[2] . ', ' . $dt[0];
+                                    echo $dt[2];
+                                    ?></span><?php
+                                    $dt = explode('-', $row->news_date);
+                                    if ($dt[1] == '01') {
+                                        $month = 'January';
+                                    }
+                                    if ($dt[1] == '02') {
+                                        $month = 'February';
+                                    }
+                                    if ($dt[1] == '03') {
+                                        $month = 'March';
+                                    }
+                                    if ($dt[1] == '04') {
+                                        $month = 'April';
+                                    }
+                                    if ($dt[1] == '05') {
+                                        $month = 'May';
+                                    }
+                                    if ($dt[1] == '06') {
+                                        $month = 'June';
+                                    }
+                                    if ($dt[1] == '07') {
+                                        $month = 'July';
+                                    }
+                                    if ($dt[1] == '08') {
+                                        $month = 'August';
+                                    }
+                                    if ($dt[1] == '09') {
+                                        $month = 'September';
+                                    }
+                                    if ($dt[1] == '10') {
+                                        $month = 'October';
+                                    }
+                                    if ($dt[1] == '11') {
+                                        $month = 'November';
+                                    }
+                                    if ($dt[1] == '12') {
+                                        $month = 'December';
+                                    }
+                                    echo $month;
                                     ?></span>
                                     <div class="d-flex align-items-center">
                                         <i class="bi bi-folder2"></i> <span
