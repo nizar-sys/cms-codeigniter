@@ -1007,11 +1007,11 @@ section,
 }
 
 @media (min-width: 769px) {
-  .services .content [class^=col-]:nth-child(4n+4) .service-item {
+  .services .content [class^=col-]:nth-child(3n+3) .service-item {
     border-right: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
   }
 
-  .services .content [class^=col-]:nth-last-child(-n+4) .service-item {
+  .services .content [class^=col-]:nth-last-child(-n+3) .service-item {
     border-bottom: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
   }
 }

@@ -164,7 +164,9 @@ $success_message = '';
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect">
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Marcellus:wght@400&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Marcellus:wght@400&display=swap"
+        rel="stylesheet">
 
     <!-- Vendor CSS Files -->
     <link href="<?php echo base_url(); ?>public/ac/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -176,6 +178,9 @@ $success_message = '';
     <!-- Main CSS File -->
     <link href="<?php echo base_url(); ?>public/ac/assets/css/main.css" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo base_url(); ?>public/css/font-awesome.min.css">
+
+    <!-- Magnific Popup CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
 
     <style>
         .searchbar {
@@ -218,70 +223,71 @@ $success_message = '';
             margin-left: 5px;
         }
     </style>
+    <?php if ($setting['cta_background']) { ?>
+        <style>
+            .call-to-action {
+                background-size: cover;
+                background-position: center;
+                padding: 60px 0;
+                color: #fff;
+                text-align: center;
+                position: relative;
+            }
 
-    <style>
-        .call-to-action {
-            background-size: cover;
-            background-position: center;
-            padding: 60px 0;
-            color: #fff;
-            text-align: center;
-            position: relative;
-        }
+            .call-to-action::before {
+                content: "";
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background-color: rgba(0, 0, 0, 0.5);
+                /* Adjust for darker overlay */
+                z-index: 1;
+            }
 
-        .call-to-action::before {
-            content: "";
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(0, 0, 0, 0.5);
-            /* Adjust for darker overlay */
-            z-index: 1;
-        }
+            .call-to-action .content {
+                position: relative;
+                z-index: 2;
+            }
 
-        .call-to-action .content {
-            position: relative;
-            z-index: 2;
-        }
-
-        .call-to-action h3 {
-            font-size: 2rem;
-            font-weight: 700;
-            margin: 0 0 20px;
-        }
-
-        .call-to-action .btn {
-            background-color: #28a745;
-            /* Primary button color */
-            border: none;
-            color: #fff;
-            transition: background-color 0.3s ease, color 0.3s ease;
-            /* Added color transition */
-            text-decoration: none;
-            padding: 10px 20px;
-            border-radius: 5px;
-            display: inline-block;
-        }
-
-        .call-to-action .btn:hover {
-            background-color: #218838;
-            /* Darker shade on hover */
-            color: #000;
-            /* Text color on hover */
-        }
-
-        @media (max-width: 992px) {
             .call-to-action h3 {
-                font-size: 1.5rem;
+                font-size: 2rem;
+                font-weight: 700;
+                margin: 0 0 20px;
             }
 
             .call-to-action .btn {
-                width: 100%;
+                background-color: #28a745;
+                /* Primary button color */
+                border: none;
+                color: #fff;
+                transition: background-color 0.3s ease, color 0.3s ease;
+                /* Added color transition */
+                text-decoration: none;
+                padding: 10px 20px;
+                border-radius: 5px;
+                display: inline-block;
             }
-        }
-    </style>
+
+            .call-to-action .btn:hover {
+                background-color: #218838;
+                /* Darker shade on hover */
+                color: #000;
+                /* Text color on hover */
+            }
+
+            @media (max-width: 992px) {
+                .call-to-action h3 {
+                    font-size: 1.5rem;
+                }
+
+                .call-to-action .btn {
+                    width: 100%;
+                }
+            }
+        </style>
+    <?php } ?>
 </head>
 
 <body class="index-page">
@@ -301,21 +307,28 @@ $success_message = '';
             <!-- Navigation Menu -->
             <nav id="navmenu" class="navmenu">
                 <ul class="nav">
-                    <li class="nav-item"><a href="<?php echo base_url(); ?>" class="nav-link active"><?php echo HOME; ?></a></li>
-                    <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <li class="nav-item"><a href="<?php echo base_url(); ?>"
+                            class="nav-link active"><?php echo HOME; ?></a></li>
+                    <li class="dropdown">
+                        <a href="#">
                             <?php echo PAGE; ?> <i class="bi bi-chevron-down toggle-dropdown"></i>
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a href="<?php echo base_url(); ?>photo-gallery" class="dropdown-item"><?php echo PHOTO_GALLERY; ?></a></li>
-                            <li><a href="<?php echo base_url(); ?>video-gallery" class="dropdown-item"><?php echo VIDEO_GALERY; ?></a></li>
+                            <li><a href="<?php echo base_url(); ?>photo-gallery"
+                                    class="dropdown-item"><?php echo PHOTO_GALLERY; ?></a></li>
+                            <li><a href="<?php echo base_url(); ?>video-gallery"
+                                    class="dropdown-item"><?php echo VIDEO_GALERY; ?></a></li>
                         </ul>
                     </li>
                     <li class="nav-item"><a href="https://abcsukses.com/app/" class="nav-link">OMSET RO</a></li>
-                    <li class="nav-item"><a href="https://abcsukses.com/app/main/promo" class="nav-link">PROMO TOUR</a></li>
-                    <li class="nav-item"><a href="<?php echo base_url(); ?>news" class="nav-link"><?php echo NEWS; ?></a></li>
-                    <li class="nav-item"><a href="<?php echo base_url(); ?>contact" class="nav-link"><?php echo CONTACT; ?></a></li>
-                    <li class="nav-item"><a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#login">Login</a></li>
+                    <li class="nav-item"><a href="https://abcsukses.com/app/main/promo" class="nav-link">PROMO TOUR</a>
+                    </li>
+                    <li class="nav-item"><a href="<?php echo base_url(); ?>news"
+                            class="nav-link"><?php echo NEWS; ?></a></li>
+                    <li class="nav-item"><a href="<?php echo base_url(); ?>contact"
+                            class="nav-link"><?php echo CONTACT; ?></a></li>
+                    <li class="nav-item"><a href="#" class="nav-link" data-bs-toggle="modal"
+                            data-bs-target="#login">Login</a></li>
                     <li class="nav-item">
                         <a href="#" class="nav-link" id="search-icon"><i class="bi bi-search"></i></a>
                     </li>
@@ -328,7 +341,8 @@ $success_message = '';
                 <div class="search-button"><i class="fa fa-search"></i></div>
                 <?php echo form_open(base_url() . 'search'); ?>
                 <div class="input-group input-search">
-                    <input type="text" class="form-control" placeholder="<?php echo SEARCH_FOR; ?>" name="search_string">
+                    <input type="text" class="form-control" placeholder="<?php echo SEARCH_FOR; ?>"
+                        name="search_string">
                     <span class="input-group-btn">
                         <button class="btn btn-default" type="submit" name="form1"><i class="fa fa-search"></i></button>
                     </span>
@@ -337,7 +351,7 @@ $success_message = '';
             </div>
 
             <script>
-                document.getElementById('search-icon').addEventListener('click', function() {
+                document.getElementById('search-icon').addEventListener('click', function () {
                     var searchbar = document.getElementById('searchbar');
                     searchbar.classList.toggle('d-none');
                     searchbar.classList.toggle('show');
@@ -349,7 +363,8 @@ $success_message = '';
 
     <main class="main">
 
-        <div class="modal fade" id="login" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal fade" id="login" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+            aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-header">
@@ -367,7 +382,8 @@ $success_message = '';
                                     <label for="inputEmail3" class="col-sm-3 control-label">Username</label>
                                     <div class='col-sm-9'>
                                         <div style='background:#fff;' class="input-group col-sm-10">
-                                            <input type="text" class="required form-control" name="a" minlength='5' required>
+                                            <input type="text" class="required form-control" name="a" minlength='5'
+                                                required>
                                         </div>
                                     </div>
                                 </div>
@@ -375,7 +391,8 @@ $success_message = '';
                                     <label for="inputEmail3" class="col-sm-3 control-label">Password</label>
                                     <div class='col-sm-9'>
                                         <div style='background:#fff;' class="input-group col-sm-10">
-                                            <input type="password" class="required form-control" minlength='5' name="b" required>
+                                            <input type="password" class="required form-control" minlength='5' name="b"
+                                                required>
                                         </div>
                                     </div>
                                 </div>
@@ -383,7 +400,9 @@ $success_message = '';
                                 <div class="form-group">
                                     <div class="col-sm-offset-3">
                                         <button type="submit" name='login' class="btn btn-primary">Login</button>
-                                        &nbsp; &nbsp; &nbsp;<a data-bs-dismiss="modal" aria-hidden="true" data-bs-toggle='modal' href='#lupass' data-bs-target='#lupass' title="Lupa Password!!!">Lupa Password?</a>
+                                        &nbsp; &nbsp; &nbsp;<a data-bs-dismiss="modal" aria-hidden="true"
+                                            data-bs-toggle='modal' href='#lupass' data-bs-target='#lupass'
+                                            title="Lupa Password!!!">Lupa Password?</a>
                                     </div>
                                 </div>
                             </form>
@@ -394,7 +413,8 @@ $success_message = '';
             </div>
         </div>
 
-        <div class="modal fade" id="lupass" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal fade" id="lupass" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+            aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-header">
@@ -412,7 +432,8 @@ $success_message = '';
                                 <label for="inputEmail3" class="col-sm-2 control-label">username</label>
                                 <div class='col-sm-9'>
                                     <div style='background:#fff;' class="input-group col-sm-10">
-                                        <input style='text-transform:lowercase;' type="text" class="required form-control" name="a" required>
+                                        <input style='text-transform:lowercase;' type="text"
+                                            class="required form-control" name="a" required>
                                     </div>
                                 </div>
                             </div>
@@ -420,7 +441,9 @@ $success_message = '';
                             <div class="form-group">
                                 <div class="col-sm-offset-3">
                                     <button type="submit" name='lupa' class="btn btn-primary">Kirim</button>
-                                    &nbsp; &nbsp; &nbsp;<a data-bs-dismiss="modal" aria-hidden="true" data-bs-toggle='modal' href='#login' data-bs-target='#login' title="Lupa Password Members">Kembali Login?</a>
+                                    &nbsp; &nbsp; &nbsp;<a data-bs-dismiss="modal" aria-hidden="true"
+                                        data-bs-toggle='modal' href='#login' data-bs-target='#login'
+                                        title="Lupa Password Members">Kembali Login?</a>
                                 </div>
                             </div>
                             </form>
@@ -431,7 +454,8 @@ $success_message = '';
             </div>
         </div>
 
-        <div class="modal fade" id="orderkode" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal fade" id="orderkode" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+            aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-header">
@@ -455,7 +479,9 @@ $success_message = '';
                                         }
                                         ?>
                                     </select>
-                                    <button style='margin-top:5px' type="submit" name='order' class="btn btn-sm btn-primary">Selanjutnya <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></button>
+                                    <button style='margin-top:5px' type="submit" name='order'
+                                        class="btn btn-sm btn-primary">Selanjutnya <span
+                                            class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></button>
                                 </div>
                             </div>
                         </div>

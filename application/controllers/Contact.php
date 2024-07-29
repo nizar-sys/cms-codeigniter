@@ -1,14 +1,15 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
-class Contact extends CI_Controller {
+class Contact extends CI_Controller
+{
 	function __construct()
 	{
-        parent::__construct();
-        $this->load->model('Model_common');
-        $this->load->model('Model_contact');
-        $this->load->model('Model_portfolio');
-    }
+		parent::__construct();
+		$this->load->model('Model_common');
+		$this->load->model('Model_contact');
+		$this->load->model('Model_portfolio');
+	}
 
 	public function index()
 	{
@@ -21,19 +22,23 @@ class Contact extends CI_Controller {
 		$data['testimonials'] = $this->Model_contact->all_testimonial();
 		$data['portfolio_footer'] = $this->Model_portfolio->get_portfolio_data();
 
-		$this->load->view('view_header',$data);
-		$this->load->view('view_contact',$data);
-		$this->load->view('view_footer',$data);
+		// $this->load->view('view_header',$data);
+		// $this->load->view('view_contact',$data);
+		// $this->load->view('view_footer',$data);
+
+		$this->load->view('new/header', $data);
+		$this->load->view('new/contact', $data);
+		$this->load->view('new/footer', $data);
 	}
 
-	public function send_email() 
+	public function send_email()
 	{
 
 		$data['setting'] = $this->Model_common->all_setting();
 
 		$error = '';
 
-		if(isset($_POST['form_contact'])) {
+		if (isset($_POST['form_contact'])) {
 
 			$valid = 1;
 
@@ -43,22 +48,21 @@ class Contact extends CI_Controller {
 			$this->form_validation->set_rules('message', 'Message', 'trim|required');
 			$this->form_validation->set_error_delimiters('', '<br>');
 
-			if($this->form_validation->run() == FALSE) {
+			if ($this->form_validation->run() == FALSE) {
 				$valid = 0;
-                $error .= validation_errors();
-            }
+				$error .= validation_errors();
+			}
 
-		    if($valid == 1)
-		    {
+			if ($valid == 1) {
 				$msg = '
             		<h3>Sender Information</h3>
-					<b>Name: </b> '.$_POST['name'].'<br><br>
-					<b>Phone: </b> '.$_POST['phone'].'<br><br>
-					<b>Email: </b> '.$_POST['email'].'<br><br>
-					<b>Subject: </b> '.$_POST['subject'].'<br><br>
-					<b>Message: </b> '.$_POST['message'].'
+					<b>Name: </b> ' . $_POST['name'] . '<br><br>
+					<b>Phone: </b> ' . $_POST['phone'] . '<br><br>
+					<b>Email: </b> ' . $_POST['email'] . '<br><br>
+					<b>Subject: </b> ' . $_POST['subject'] . '<br><br>
+					<b>Message: </b> ' . $_POST['message'] . '
 				';
-            	$this->load->library('email');
+				$this->load->library('email');
 
 				$this->email->from($data['setting']['send_email_from']);
 				$this->email->to($data['setting']['receive_email_to']);
@@ -71,20 +75,18 @@ class Contact extends CI_Controller {
 
 				$this->email->send();
 
-		        $success = 'Thank you for sending the email. We will contact you shortly.';
-        		$this->session->set_flashdata('success',$success);
+				$success = 'Thank you for sending the email. We will contact you shortly.';
+				$this->session->set_flashdata('success', $success);
 
-		    } 
-		    else
-		    {
-        		$this->session->set_flashdata('error',$error);
-		    }
+			} else {
+				$this->session->set_flashdata('error', $error);
+			}
 
-			redirect(base_url().'contact');
-            
-        } else {
-            
-            redirect(base_url().'contact');
-        }
+			redirect(base_url() . 'contact');
+
+		} else {
+
+			redirect(base_url() . 'contact');
+		}
 	}
 }
