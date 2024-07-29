@@ -58,7 +58,6 @@
 
     #content {
         position: relative;
-        background-color: #f9f9f9;
     }
 
     .content-wrap {

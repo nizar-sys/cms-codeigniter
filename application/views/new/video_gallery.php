@@ -58,7 +58,6 @@
 
     #about-3 {
         position: relative;
-        background-color: #f9f9f9;
         padding-left: 30px;
         padding-right: 30px;
     }
